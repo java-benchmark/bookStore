@@ -1,0 +1,30 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar .logo{
+    padding-top: 0;
+}
+
+.book-list {
+    list-style-type: none;
+}
+
+.price {
+    color: green;
+    font-weight: bold;
+}
+
+.author {
+    margin-bottom: 5px;
+}
+
+.command-butttons input {
+    margin-right: 15px;
+}
+
+.alert {
+    list-style-type: none;
+    padding: 5px 10px;
+    margin: 10px 0;
+}
